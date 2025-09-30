@@ -24,6 +24,6 @@
 
 <div data-full-width="false">
 
-<figure><img src="../assets/IMG_20230314_121651.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/IMG_20230314_121651.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>

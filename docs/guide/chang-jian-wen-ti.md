@@ -31,7 +31,7 @@ A：目前的趋势是学专培养方案改为相同，学硕大幅缩招，专�
 
 A：学术博可参考下图↓，工程博近些年才有，暂时不明确情况。
 
-<figure><img src="../assets/388a40ca1c4c2f1c.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="assets/388a40ca1c4c2f1c.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 **Q：该如何选择导师？**
 

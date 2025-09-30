@@ -16,7 +16,7 @@
 
 研究方向的选择是入营后统一一段时间进行，为动态博弈。2023年的(夏令营)最终结果如下：
 
-<figure><img src="../assets/fdusummercamp.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/fdusummercamp.jpg" alt=""><figcaption></figcaption></figure>
 
 各个学科方向的导师见：https://cs.fudan.edu.cn/24781/list.htm。
 

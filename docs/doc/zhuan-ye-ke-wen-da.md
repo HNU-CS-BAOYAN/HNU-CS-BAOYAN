@@ -287,7 +287,7 @@ TSP问题：求最短的哈密顿回路。NP难问题。
 
 一次遍历求方差：
 
-![](../assets/image.png)
+![](assets/image.png)
 
 **9.协方差与相关系数**
 
@@ -297,11 +297,11 @@ TSP问题：求最短的哈密顿回路。NP难问题。
 
 独立同分布的随机变量的和的标准化变量在n无穷大时，近似为正态分布。或者可以说随机变量的均值在n无穷大时近似服从正态分布。
 
-![](<../assets/image (1).png>)
+![](<assets/image-1.png>)
 
 对于二项分布，写为：
 
-![](<../assets/image (2).png>)
+![](<assets/image-2.png>)
 
 该式为拉普拉斯中心极限定理。
 
@@ -313,7 +313,7 @@ TSP问题：求最短的哈密顿回路。NP难问题。
 
 极大似然估计利用已知的样本，找出最有可能产生该样本的参数。似然性是从观察值计算分布函数的参数为Θ的可能性大小。极大似然估计对于给定的观察值，找出能最大概率产生观察值的参数θ\*作为参数估计结果。
 
-<figure><img src="../assets/QQ截图20230916170253.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/QQ截图20230916170253.jpg" alt=""><figcaption></figcaption></figure>
 
 **12.至少两人同天生日**
 
