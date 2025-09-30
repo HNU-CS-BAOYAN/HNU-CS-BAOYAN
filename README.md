@@ -43,6 +43,12 @@ HNU计算机保研交流群（进群提供学号信息+改备注）：439182875
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/A-Y-1">
+        <img src="https://github.com/A-Y-1.png?size=96" width="80" height="80" alt="A-Y-1"/><br/>
+        <sub>Aaron<br/>@A-Y-1 · 2024届</sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/wolfvoid">
         <img src="https://github.com/wolfvoid.png?size=96" width="80" height="80" alt="wolfvoid"/><br/>
         <sub>甘晴void<br/>@wolfvoid · 2025届</sub>
@@ -52,12 +58,6 @@ HNU计算机保研交流群（进群提供学号信息+改备注）：439182875
       <a href="https://github.com/gcmarks">
         <img src="https://github.com/gcmarks.png?size=96" width="80" height="80" alt="gcmarks"/><br/>
         <sub>@gcmarks<br/>2025届</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/A-Y-1">
-        <img src="https://github.com/A-Y-1.png?size=96" width="80" height="80" alt="A-Y-1"/><br/>
-        <sub>Aaron<br/>@A-Y-1 · 2024届</sub>
       </a>
     </td>
     <td align="center">
