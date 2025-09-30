@@ -38,9 +38,38 @@ HNU计算机保研交流群（进群提供学号信息+改备注）：439182875
 
 ## 🤝 贡献者
 
-感谢所有贡献宝贵经验的同学们：
+感谢所有贡献宝贵经验的同学们，也期待更多人加入维护。
 
-- 2026届：
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wolfvoid">
+        <img src="https://github.com/wolfvoid.png?size=96" width="80" height="80" alt="wolfvoid"/><br/>
+        <sub>甘晴void<br/>@wolfvoid · 2025届</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gcmarks">
+        <img src="https://github.com/gcmarks.png?size=96" width="80" height="80" alt="gcmarks"/><br/>
+        <sub>@gcmarks<br/>2025届</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/A-Y-1">
+        <img src="https://github.com/A-Y-1.png?size=96" width="80" height="80" alt="A-Y-1"/><br/>
+        <sub>Aaron<br/>@A-Y-1 · 2024届</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cab/HNU-CS-BAOYAN/issues">
+        <img src="https://github.com/ghost.png?size=96" width="80" height="80" alt="next contributor"/><br/>
+        <sub>等你来<br/>成为下一位贡献者</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+- 2026届：招募中，欢迎联系维护组投稿
 - 2025届：[@甘晴void](https://github.com/wolfvoid), [@gcmarks](https://github.com/gcmarks)
 - 2024届：[@Aaron](https://github.com/A-Y-1)
 
