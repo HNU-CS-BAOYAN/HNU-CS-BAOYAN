@@ -46,6 +46,19 @@ HNU计算机保研交流群（进群提供学号信息+改备注）：439182875
 
 项目的传递需要您的帮助，哪怕只是一届中断本项目就将永远陷入沉寂，欢迎您接手本年度的仓库维护（请联系红群管理员）。
 
+## 🌐 GitHub Pages 部署
+
+项目文档已整理到 `docs/` 目录，并使用 [docsify](https://docsify.js.org/) 渲染，适合直接托管在 GitHub Pages 上。
+
+### 启用步骤
+1. 打开仓库 Settings → Pages。
+2. 在 "Build and deployment" 中选择 "Deploy from a branch"，分支选 `main`（或默认分支），目录选 `/docs`。
+3. 点击保存，等待 1-2 分钟即可在 `https://<你的 GitHub 用户名>.github.io/HNU-CS-BAOYAN/` 访问在线文档。
+
+### 本地预览（可选）
+- `npx docsify-cli@latest serve docs`（需提前安装 Node.js）
+- 或运行 `python3 -m http.server --directory docs 9000` 后访问 <http://localhost:9000>
+
 ## 📜 许可证
 
 本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可证，仅限非商业使用，使用时请注明出处。
