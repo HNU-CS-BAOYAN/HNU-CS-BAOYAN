@@ -16,20 +16,24 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"
     />
+      <link rel="stylesheet" href="custom.css" />
   </head>
   <body>
     <div id="app">加载中…</div>
     <script>
       window.$docsify = {
         name: 'HNU CS 保研指南',
-        repo: 'https://github.com/cab/HNU-CS-BAOYAN',
+        repo: 'https://github.com/HNU-CS-BAOYAN/HNU-CS-BAOYAN',
         loadSidebar: true,
+        loadNavbar: true,
+        coverpage: true,
         subMaxLevel: 2,
         auto2top: true,
-        relativePath: true,
+        relativePath: false,
+        formatUpdated: '{YYYY}-{MM}-{DD} 更新',
         search: {
-          placeholder: '搜索',
-          noData: '找不到结果',
+          placeholder: '搜索关键词…',
+          noData: '没有找到相关内容',
           depth: 3
         }
       };

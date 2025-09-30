@@ -2,7 +2,7 @@
   <h1>湖南大学计算机保研指南</h1>
   <p>星光不负赶路人，时光不负有心人</p>
   <p>
-    <a href="https://github.com/cab/HNU-CS-BAOYAN"><img src="https://img.shields.io/badge/GitHub-项目仓库-24292e?style=flat-square&logo=github" alt="GitHub"></a>
+    <a href="https://github.com/HNU-CS-BAOYAN/HNU-CS-BAOYAN"><img src="https://img.shields.io/badge/GitHub-项目仓库-24292e?style=flat-square&logo=github" alt="GitHub"></a>
     <a href="guide/tui-mian-liu-cheng.md"><img src="https://img.shields.io/badge/快速开始-推免流程-2c974b?style=flat-square" alt="快速开始"></a>
     <a href="other/README.md"><img src="https://img.shields.io/badge/资料下载-持续更新-d97706?style=flat-square" alt="资料下载"></a>
   </p>
@@ -48,6 +48,11 @@
 - 若有新的经验分享或资料补充，欢迎提交 Issue/PR。
 
 ## 贡献方式
+<p>
+  <a class="pretty-link" href="https://github.com/HNU-CS-BAOYAN/HNU-CS-BAOYAN/issues/new">提交 Issue</a>
+  <a class="pretty-link" href="https://github.com/HNU-CS-BAOYAN/HNU-CS-BAOYAN/pulls">发起 PR</a>
+  <a class="pretty-link" href="https://github.com/HNU-CS-BAOYAN/HNU-CS-BAOYAN/stargazers">关注更新</a>
+</p>
 - 在 GitHub 发起 Issue/PR，或在交流群内联系维护同学协助上传。
 - 投稿时注明专业、排名、去向及可公开的联系方式，方便后续同学交流。
 - 欢迎加入维护，共同保持资源长期更新。
