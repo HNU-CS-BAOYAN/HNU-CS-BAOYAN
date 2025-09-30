@@ -25,3 +25,4 @@
   * [英文问答](doc/ying-wen-wen-da.md)
 * 其他资源
   * [资料索引](other/README.md)
+  * [维护说明](HELP.md)
