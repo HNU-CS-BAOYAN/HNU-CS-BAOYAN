@@ -1,8 +1,18 @@
 # 往届去向
 
-⚠仅收录了计算机科学与技术专业及分流的大数据专业同学们的去向。
+## **2026届**
 
-**2024届**
+待26届同学接收维护与更新
+
+## **2025届**
+
+本年度信息由红群2025届 [@float-fish](https://github.com/float-fish) 组织收集，由2025届电子厂以及广大同学协助收集。（请勿原图外传）
+
+<figure><img src="assets/2025届去向.jpg" alt=""><figcaption></figcaption></figure>
+
+## **2024届**
+
+⚠本年度仅收录了计算机科学与技术专业及分流的大数据专业同学们的去向，由 [@A橙](https://github.com/A-Y-1) 收集。
 
 计算机科学与技术共110人，大数据科学共21人。
 
@@ -20,10 +30,12 @@
 | 中国科学院大学             | 计算机技术                | 1    |
 | 湖南大学                   | 计算机科学与技术\电子信息 | 12   |
 
-**2023届(⚠本届推免为线上，参考意义已较小。)**
+
+
+## **2023届**
+
+⚠本届推免为线上推免，参考意义已较小。为了保护相关同学个人信息，姓名均已隐去，如果由需要可以在红群内联系管理员帮忙寻找相关学长。
 
 <div data-full-width="false">
-
-<figure><img src="assets/IMG_20230314_121651.jpg" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="assets/2023届去向.png" alt=""><figcaption></figcaption></figure>
 </div>

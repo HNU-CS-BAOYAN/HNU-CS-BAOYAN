@@ -12,7 +12,5 @@
 
 院校水平分布的常见版本如下，同一水平的院校没有必要比较强弱，需要考虑导师与具体方向，另外，此处没有考虑具体的院系，与HNU不同，大多数学校都有至少两个或以上的计算机相关学院，不同学院的水平存在差异：
 
-<figure><img src="assets/计算机专业保研.jpeg" alt="" width="375"><figcaption></figcaption></figure>
-
-
-
+<div data-full-width="false">
+<figure><img src="assets/计算机专业保研.jpeg" alt=""><figcaption></figcaption></figure>

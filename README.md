@@ -78,6 +78,8 @@ HNU计算机保研交流群（进群提供学号信息+改备注）：439182875
 
 ## 📜 许可证
 
+本项目承接自 [@A橙](https://github.com/A-Y-1) 的项目[HNU-CS-BAOYAN](https://github.com/A-Y-1/HNU-CS-BAOYAN) ，单独设置github账号以及仓库方便交接与维护的传递。
+
 本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可证，仅限非商业使用，使用时请注明出处。
 
 最后附上红群的二维码
@@ -89,4 +91,3 @@ HNU计算机保研交流群（进群提供学号信息+改备注）：439182875
 <p align="center">
 ⭐ 如果这个项目对您有帮助，请给我们一个star表示支持！
 </p>
-

@@ -14,3 +14,7 @@
 | AP       | 助理教授，新入职的导师，通常有较高的学术水平，并因为非升即走等原因有较高的学术追求。 |
 | 套磁     | 联系导师                                                     |
 
+一些其他的解释（取自 [@甘晴void](https://github.com/wolfvoid) ）
+
+<div data-full-width="false">
+<figure><img src="assets/专有名词.png" alt=""><figcaption></figcaption></figure>
