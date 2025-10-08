@@ -42,9 +42,18 @@ body {
 }
 
 .markdown-section table {
+  width: 100%;
+  display: table;
+  table-layout: fixed;
+  border-spacing: 0;
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+}
+
+.markdown-section table td,
+.markdown-section table th {
+  word-break: break-word;
 }
 
 .markdown-section table th {
