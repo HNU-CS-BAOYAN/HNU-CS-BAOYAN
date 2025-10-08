@@ -3,8 +3,8 @@
   <p>星光不负赶路人，时光不负有心人</p>
   <p>
     <a href="https://github.com/HNU-CS-BAOYAN/HNU-CS-BAOYAN"><img src="https://img.shields.io/badge/GitHub-项目仓库-24292e?style=flat-square&logo=github" alt="GitHub"></a>
-    <a href="guide/tui-mian-liu-cheng.md"><img src="https://img.shields.io/badge/快速开始-推免流程-2c974b?style=flat-square" alt="快速开始"></a>
-    <a href="other/README.md"><img src="https://img.shields.io/badge/资料下载-持续更新-d97706?style=flat-square" alt="资料下载"></a>
+    <a href="#/guide/tui-mian-liu-cheng"><img src="https://img.shields.io/badge/快速开始-推免流程-2c974b?style=flat-square" alt="快速开始"></a>
+    <a href="#/other/"><img src="https://img.shields.io/badge/资料下载-持续更新-d97706?style=flat-square" alt="资料下载"></a>
   </p>
 </div>
 
@@ -25,12 +25,12 @@
 ## 核心模块导航
 <table>
   <tr>
-    <td><strong>🚀 推免流程</strong><br>从资格审查到复试、递补的全过程攻略。<br><a href="guide/tui-mian-liu-cheng.md">立即查看</a></td>
-    <td><strong>🏫 院校信息</strong><br>热门高校夏令营与预推免要求、考核形式速览。<br><a href="universities/bi-du.md">必读指南</a></td>
+    <td><strong>🚀 推免流程</strong><br>从资格审查到复试、递补的全过程攻略。<br><a href="#/guide/tui-mian-liu-cheng">立即查看</a></td>
+    <td><strong>🏫 院校信息</strong><br>热门高校夏令营与预推免要求、考核形式速览。<br><a href="#/universities/bi-du">必读指南</a></td>
   </tr>
   <tr>
-    <td><strong>📝 文书资料</strong><br>个人陈述、推荐信、问答整理，另有 PPT/简历模板。<br><a href="doc/wen-shu-zhun-bei.md">快速查阅</a></td>
-    <td><strong>📦 资料下载</strong><br>机试真题、面试题库、学术会议目录等合集。<br><a href="other/README.md">集中下载</a></td>
+    <td><strong>📝 文书资料</strong><br>个人陈述、推荐信、问答整理，另有 PPT/简历模板。<br><a href="#/doc/wen-shu-zhun-bei">快速查阅</a></td>
+    <td><strong>📦 资料下载</strong><br>机试真题、面试题库、学术会议目录等合集。<br><a href="#/other/">集中下载</a></td>
   </tr>
 </table>
 
